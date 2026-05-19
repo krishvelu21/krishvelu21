@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Krishnapriya 👋
 
-<!--
-**krishvelu21/krishvelu21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS Data Science student at IIT Madras  
+🏫 Pursuing Offline Degree at Sri Krishna Arts and Science College  
+💻 Interested in Python, Data Science, Electronics, and Programming  
+🌱 Currently learning Python and Object-Oriented Programming  
+🚀 Building my coding journey on GitHub  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- C Programming
+- Basic Electronics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goals
+- Improve coding skills
+- Build Python projects
+- Learn Data Science tools
+
+## Connect With Me
+- GitHub: https://github.com/krishvelu21
+
+⭐ Always learning and improving every day!
